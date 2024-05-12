@@ -123,3 +123,4 @@ D:\ProjetosCsharpWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2
 D:\ProjetosCsharpWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 D:\ProjetosCsharpWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 D:\ProjetosCsharpWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+D:\ProjetosCsharpWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
