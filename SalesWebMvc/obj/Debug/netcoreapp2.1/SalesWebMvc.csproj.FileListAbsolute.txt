@@ -130,3 +130,4 @@ D:\Cursos\curso-Csharp-udemy\projetos\workshop-asp-net-core-mvc\SalesWebMvc\obj\
 D:\Cursos\curso-Csharp-udemy\projetos\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
 D:\Cursos\curso-Csharp-udemy\projetos\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 D:\Cursos\curso-Csharp-udemy\projetos\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
+D:\ProjetosCsharpWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
