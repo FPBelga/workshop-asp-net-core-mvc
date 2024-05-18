@@ -8,6 +8,7 @@ namespace SalesWebMvc.Models
     public class Seller
     {
         public int Id { get; set; }
+
         [Display(Name = "Nome")]
         [Required(ErrorMessage ="Nome é obrigatório")]
         [StringLength(60, MinimumLength = 3, ErrorMessage ="{0} Tamanho do nome deve está entre {2} e {1}")]
@@ -30,8 +31,9 @@ namespace SalesWebMvc.Models
         [DisplayFormat(DataFormatString = "{0:F2}")]
         [Range(100.0, 50000.0, ErrorMessage = "{0} O salario deve ser entre {1} to {2}")]
         public double BaseSalary { get; set; }
-        
-        public Department Department { get; set; }
+        [Display(Name = "Departamento")]
+
+        public Department Department { get; set; }  
         
         public int DepartmentId { get; set; }
         
@@ -41,7 +43,6 @@ namespace SalesWebMvc.Models
         {
 
         }
-
         public Seller(int id, string name, string email, DateTime birthdate, double baseSalary, Department department)
         {
             Id = id;
@@ -51,7 +52,6 @@ namespace SalesWebMvc.Models
             BaseSalary = baseSalary;
             Department = department;
         }
-
         public void AddSales(SalesRecord sr) 
         {
             Sales.Add(sr);
@@ -60,13 +60,10 @@ namespace SalesWebMvc.Models
         {
             Sales.Remove(sr);
         }
-
         public double TotalSales(DateTime initial, DateTime final) 
         { 
             return Sales.Where(sr => sr.Date >= initial && sr.Date <= final)
                         .Sum(sr => sr.Amount);
         }
-
-
     }
 }

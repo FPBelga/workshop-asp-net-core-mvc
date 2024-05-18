@@ -132,3 +132,5 @@ D:\Cursos\curso-Csharp-udemy\projetos\workshop-asp-net-core-mvc\SalesWebMvc\obj\
 D:\Cursos\curso-Csharp-udemy\projetos\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
 D:\ProjetosCsharpWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
 D:\ProjetosCsharpWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+D:\ProjetosCsharpWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
+D:\ProjetosCsharpWeb\workshop-asp-net-core-mvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
